@@ -45,8 +45,9 @@ cd <project-directory>
 Build and run the Go application:
 ```
 bash
-go build -o app
-./app
+go install
+go build 
+go run .
 ```
 The backend will start running on a specified port (e.g., localhost:8000).
 
