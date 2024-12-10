@@ -26,11 +26,11 @@ The project will consist of the following components:
 **Prerequisites**
 Before you start, make sure you have the following installed:
 
--  •	Go (Golang) v1.18 or later
--  •	Docker  // Not able to use it in my laptop to test it
--  •	PostgreSQL 
--  •	Angular CLI (for frontend development)
--  •	Git 
+-  	Go (Golang) v1.18 or later
+-  	Docker  // Not able to use it in my laptop to test it
+-  	PostgreSQL 
+-  	Angular CLI (for frontend development)
+-  	Git 
 
 # Backend Setup
 Clone the repository:
