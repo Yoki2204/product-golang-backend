@@ -14,8 +14,8 @@ This project involves designing and implementing a Golang backend to support an 
 **Search Functionality:** Allow users to search for products by name, displaying only the matched results.
 
 # Project Structure
-The project will consist of the following components: \
-**Backend:** \
+The project will consist of the following components: 
+**Backend:** 
 - Golang APIs to handle product-related requests (CRUD operations, search, pagination, and sorting). \
 -	PostgreSQL database for product data storage. \
 -	Docker configuration for the backend application. \
