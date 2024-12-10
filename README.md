@@ -13,7 +13,7 @@ This project focuses on creating and deploying a Golang backend to support an An
 **3. Sorting** \
   **Sorting by Criteria:** Sort products by various criteria such as price (ascending/descending), product type, or any other field. \
   \
-**4. Search** 
+**4. Search**  \
  **Search Functionality:** Allow users to search for products by name, displaying only the matched results.
 
 # Project Structure
