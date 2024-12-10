@@ -1,26 +1,26 @@
-# Overview\
+# Overview
 This project involves designing and implementing a Golang backend to support an Angular web application. The backend will provide functionalities for managing a product catalog with operations such as creating, editing, listing, and searching products. Additionally, the system will include features for sorting and paging the product list.
 
-# Features\
+# Features
 **1. Product Management** \
-**Create Product:** Add a new product with details such as name, type, price and  description.
-**Edit Product:** Modify the details of an existing product.
-**2. Product Listing**
-**Grid View:** List all products in a grid layout.
-**Pagination:** Use pagination to manage large sets of products, ensuring only a limited number of products are displayed per page.
-**3. Sorting**
-**Sorting by Criteria:** Sort products by various criteria such as price (ascending/descending), product type, or any other field.
-**4. Search**
-**Search Functionality: **Allow users to search for products by name, displaying only the matched results.
+**Create Product:** Add a new product with details such as name, type, price and  description. \
+**Edit Product:** Modify the details of an existing product. \
+**2. Product Listing** \
+**Grid View:** List all products in a grid layout. \
+**Pagination:** Use pagination to manage large sets of products, ensuring only a limited number of products are displayed per page. \
+**3. Sorting** \
+**Sorting by Criteria:** Sort products by various criteria such as price (ascending/descending), product type, or any other field. \
+**4. Search** \
+**Search Functionality:** Allow users to search for products by name, displaying only the matched results.
 
 # Project Structure
-The project will consist of the following components:
-**Backend:**
-•	Golang APIs to handle product-related requests (CRUD operations, search, pagination, and sorting).
-•	PostgreSQL database for product data storage.
-•	Docker configuration for the backend application.
-**Frontend (Angular):**
-•	Angular application to display products in a grid, implement search functionality, and provide sorting/paging features.
+The project will consist of the following components: \
+**Backend:** \
+- Golang APIs to handle product-related requests (CRUD operations, search, pagination, and sorting). \
+-	PostgreSQL database for product data storage. \
+-	Docker configuration for the backend application. \
+**Frontend (Angular):** \
+-	Angular application to display products in a grid, implement search functionality, and provide sorting/paging features.
 
 # Installation and Setup
 **Prerequisites**
