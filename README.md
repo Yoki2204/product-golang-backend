@@ -78,7 +78,7 @@ The frontend will be available at http://localhost:4200.
 # API Endpoints
 The backend will expose the following API endpoints:
 
-POST /api/products: Create a new product.
-GET /api/products: List all products with pagination and sorting options.
-GET /api/products/{id}: Get details of a single product.
-PUT /api/products/{id}: Update an existing product.
+- POST /api/products: Create a new product.
+- GET /api/products: List all products with pagination and sorting options.
+- GET /api/products/{id}: Get details of a single product.
+- PUT /api/products/{id}: Update an existing product.
