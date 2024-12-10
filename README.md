@@ -34,36 +34,45 @@ Before you start, make sure you have the following installed:
 
 # Backend Setup
 Clone the repository:
-
+```
 Bash
 git clone <repository-url>
 cd <project-directory>
+```
 Build and run the Go application:
-
+```
 bash
 go build -o app
 ./app
+```
 The backend will start running on a specified port (e.g., localhost:8000).
 
 # Set up the PostgreSQL database:
 Configure the postgresql like below
+```
 DB_HOST: localhost.
 DB_PORT: Port of the PostgreSQL database (default: 5432).
 DB_USER: postgres
 DB_PASSWORD: yokini22
+```
 
 # Frontend Setup (Angular)
 Navigate to the frontend directory:
+```
 bash
 cd frontend
-
+```
 Install dependencies:
+```
 bash
 npm install
-Run the Angular application:
+```
 
+Run the Angular application:
+```
 bash
 ng serve
+```
 The frontend will be available at http://localhost:4200.
 
 # API Endpoints
