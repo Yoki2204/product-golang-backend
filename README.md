@@ -3,10 +3,10 @@ This project involves designing and implementing a Golang backend to support an 
 
 # Features
 **1. Product Management** \
-**Create Product:** Add a new product with details such as name, type, price and  description. \
+**Create Product:** Add a new product with details such as name, type, price and  description. Validation added for all the fields, (*asterik is not added in UI) \
 **Edit Product:** Modify the details of an existing product. \
 **2. Product Listing** \
-**Grid View:** List all products in a grid layout. \
+**Grid View:** List all products in a grid layout, If there is no records, then displaying "No record found". \
 **Pagination:** Use pagination to manage large sets of products, ensuring only a limited number of products are displayed per page. \
 **3. Sorting** \
 **Sorting by Criteria:** Sort products by various criteria such as price (ascending/descending), product type, or any other field. \
