@@ -1,5 +1,5 @@
 # Overview
-This project involves designing and implementing a Golang backend to support an Angular web application. The backend will provide functionalities for managing a product catalog with operations such as creating, editing, listing, and searching products. Additionally, the system will include features for sorting and paging the product list.
+This project focuses on creating and deploying a Golang backend to support an Angular web application. The backend will enable the management of a product catalog, with capabilities for creating, updating, listing, and searching products. It will also include features for sorting and paginating the product list.
 
 # Features
 **1. Product Management** \
